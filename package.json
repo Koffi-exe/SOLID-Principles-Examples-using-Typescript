@@ -1,0 +1,23 @@
+{
+  "name": "solid-principles-examples-using-typescript",
+  "version": "1.0.0",
+  "description": "This tutorial was insprired from the [Encapsulation SOLID](https://app.pluralsight.com/library/courses/encapsulation-solid/table-of-contents) course on Pluralsight.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Koffi-exe/SOLID-Principles-Examples-using-Typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Koffi-exe/SOLID-Principles-Examples-using-Typescript/issues"
+  },
+  "homepage": "https://github.com/Koffi-exe/SOLID-Principles-Examples-using-Typescript#readme",
+  "devDependencies": {
+    "@types/node": "^24.0.10"
+  }
+}
